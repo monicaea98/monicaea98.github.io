@@ -867,3 +867,24 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+
+/* Texto que el usuario escribe en el formulario */
+#contact .form-control {
+    color: #222222; /* casi negro */
+}
+
+/* Color del placeholder (texto guía dentro de las cajas) */
+#contact .form-control::placeholder {
+    color: #777777;
+    opacity: 1;
+}
+
+/* Para compatibilidad con navegadores viejitos */
+#contact .form-control:-ms-input-placeholder {
+    color: #777777;
+}
+
+#contact .form-control::-ms-input-placeholder {
+    color: #777777;
+}
