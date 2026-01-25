@@ -7,7 +7,7 @@ date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: December 2026
+project-date: December 2025
 Tools: Python • Scikit-learn • Pandas • Customer Segmentation
 github: https://github.com/monicaea98/Customer_Churn_Prediction-Model_Fitness
 description: >
