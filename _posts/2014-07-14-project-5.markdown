@@ -1,15 +1,36 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Marketing Events Analysis
+subtitle: Marketing Impact
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: November 2026
+Tools: Python • Matplotlib • Pandas • Jupyter Notebook
+github: https://github.com/monicaea98/Marketing_events
+description: >
+  Raw <strong>website activity logs</strong>, <strong>order history</strong>, and <strong>marketing cost data</strong> 
+  were cleaned, transformed, and integrated to analyze <strong>customer behavior</strong>, 
+  <strong>conversion timing</strong>, and <strong>marketing channel performance</strong> for an event ticketing platform.
 
+  <strong>Exploratory data analysis</strong> evaluated <strong>daily, weekly, and monthly active users</strong>, 
+  <strong>session duration patterns</strong>, and <strong>cohort-based retention rates</strong> to understand how 
+  customers interact with the service and how often they return. Results showed short session durations 
+  and low monthly retention, suggesting that users primarily visit the platform when actively planning an event purchase.
+
+  Conversion analysis revealed that most customers complete a purchase within 
+  <strong>minutes or hours of their first visit</strong>, indicating a strong <strong>intent-driven behavior pattern</strong>. 
+  Revenue analysis measured <strong>average order value</strong>, <strong>purchase frequency</strong>, and 
+  <strong>customer lifetime value (LTV)</strong> to quantify long-term customer contribution.
+
+  Marketing performance was assessed by comparing <strong>acquisition costs (CAC)</strong> with 
+  <strong>customer lifetime value</strong> and calculating <strong>ROI</strong> and <strong>ROMI</strong> across acquisition channels. 
+  The analysis identified the most profitable channels, where <strong>LTV significantly exceeded CAC</strong>, 
+  and provided data-driven recommendations to reallocate budget toward high-performing sources while optimizing or reducing spend on less efficient channels.
+
+  Findings support <strong>data-driven marketing investment decisions</strong>, improved 
+  <strong>budget allocation strategies</strong>, and a better understanding of <strong>customer purchasing behavior</strong> 
+  in an event-based digital marketplace.
 ---
