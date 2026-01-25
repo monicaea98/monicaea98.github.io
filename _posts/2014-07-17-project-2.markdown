@@ -1,15 +1,34 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Customer Churn Prediction 
+subtitle: Predictive Model
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: December 2026
+Tools: Python • Scikit-learn • Pandas • Customer Segmentation
+github: https://github.com/monicaea98/Customer_Churn_Prediction-Model_Fitness
+description: >
+  Customer data from a <strong>subscription-based gym business</strong> was cleaned and analyzed to understand 
+  <strong>customer behavior</strong> and predict <strong>churn risk</strong>. 
+  <strong>Exploratory data analysis</strong> and <strong>feature engineering</strong> were used to evaluate 
+  <strong>contract length</strong>, <strong>visit frequency</strong>, <strong>group class participation</strong>, 
+  <strong>additional service spending</strong>, and <strong>promotion channels</strong>.
 
+  A <strong>machine learning churn prediction model</strong> was developed to estimate the probability of 
+  customers leaving in the following month, while <strong>customer segmentation (clustering)</strong> identified 
+  distinct behavioral groups with different levels of retention risk.
+
+  Key <strong>business insights</strong> revealed that <strong>longer contracts</strong>, 
+  <strong>partner and referral promotions</strong>, and <strong>active participation in group sessions</strong> 
+  significantly increase retention, while <strong>low attendance</strong>, 
+  <strong>short-term contracts</strong>, and <strong>new memberships</strong> are strong indicators of churn risk.
+
+  Results informed <strong>data-driven retention strategies</strong>, including 
+  <strong>targeted campaigns for high-risk segments</strong>, 
+  <strong>engagement incentives to increase gym visits</strong>, and 
+  <strong>loyalty programs for long-term members</strong>, helping shift the business from reactive churn management 
+  to <strong>proactive customer retention</strong>.
 ---
