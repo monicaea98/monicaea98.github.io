@@ -7,9 +7,28 @@ date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: December 2026
+Tools: Python • Scikit-learn • Pandas • Customer Segmentation
+github: https://github.com/monicaea98/Checkout_Funnel_Optimization
+description: >
+  User behavior data from an <strong>A/B test of an e-commerce checkout funnel</strong> was cleaned, validated, 
+  and analyzed to evaluate the impact of a <strong>new recommendation system</strong> on 
+  <strong>conversion rates</strong> across key funnel stages. The analysis focused on user activity within 
+  the first <strong>14 days after registration</strong>.
 
+  <strong>Exploratory data analysis</strong> and data validation steps ensured 
+  <strong>experiment integrity</strong>, including removal of users assigned to multiple groups, 
+  verification of <strong>balanced activity levels</strong>, and checks for 
+  <strong>external marketing campaign interference</strong>.
+
+  Funnel performance was measured across <strong>login</strong>, <strong>product page views</strong>, 
+  <strong>cart additions</strong>, and <strong>purchases</strong>. Statistical hypothesis testing 
+  using <strong>proportion z-tests</strong> revealed that the new funnel increased 
+  <strong>mid-funnel engagement</strong> (product page → cart) but did not significantly improve 
+  <strong>final purchase conversion</strong>.
+
+  Additional analysis uncovered <strong>event tracking inconsistencies</strong> in the 
+  cart-to-purchase stage, highlighting the importance of <strong>data quality in experimentation</strong>. 
+  The findings informed recommendations to refine tracking, rerun the experiment, and prioritize 
+  <strong>data-driven optimization of the checkout experience</strong>.
 ---
