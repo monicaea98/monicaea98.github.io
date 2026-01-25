@@ -1,5 +1,5 @@
 ---
-title: Marketing Events Analysis
+title: Marketing Events
 subtitle: Marketing Impact
 layout: default
 modal-id: 5
