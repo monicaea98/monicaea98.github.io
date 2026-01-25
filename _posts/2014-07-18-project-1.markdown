@@ -9,6 +9,7 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: January 2026
 Tools: "Python • Tableau"
+github: https://github.com/monicaea98/E-commerce-Sales-Customer-Behavior-Analysis
 description: |
   Raw e-commerce datasets were cleaned, transformed, and merged to prepare them for analysis. Exploratory data analysis was conducted to evaluate monthly revenue trends, top revenue-generating product categories, customer purchase behavior, and geographic sales distribution.
 
