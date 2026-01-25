@@ -8,8 +8,8 @@ img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: January 2026
-client: Start Bootstrap
-category: Web Development
+Tools: Python • SQL • Pandas • Jupyter Notebook
+github: https://github.com/monicaea98/Book_Service_Database_Analysis
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
