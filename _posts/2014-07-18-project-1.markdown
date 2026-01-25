@@ -7,9 +7,8 @@ date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: January 2026
+Tools: Python • Tableau
 description: Raw e-commerce datasets were cleaned, transformed, and merged to prepare them for analysis. Exploratory data analysis was conducted to evaluate monthly revenue trends, top revenue-generating product categories, customer purchase behavior, and geographic sales distribution.
 
 Key business insights showed a consistent upward revenue trend over time, a small group of categories generating a large share of total revenue, opportunities to improve customer retention, and sales concentrated in a few key states. Average Order Value remained relatively stable. Findings were presented in an interactive Tableau dashboard to support data-driven decision-making.
