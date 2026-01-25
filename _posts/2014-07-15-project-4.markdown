@@ -7,7 +7,7 @@ date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: November 2026
+project-date: November 2025
 Tools: Python • Seaborn • Pandas •Statistical Testing
 github: https://github.com/monicaea98/CallMeMaybe_Operator_Efficiency
 description: >
