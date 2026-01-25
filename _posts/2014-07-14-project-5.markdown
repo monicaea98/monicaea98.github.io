@@ -7,7 +7,7 @@ date: 2014-07-14
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: November 2026
+project-date: November 2025
 Tools: Python • Matplotlib • Pandas • Jupyter Notebook
 github: https://github.com/monicaea98/Marketing_events
 description: >
