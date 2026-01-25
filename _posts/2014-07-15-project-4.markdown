@@ -1,15 +1,35 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Operator Efficiency
+subtitle: Operations
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: November 2026
+Tools: Python • Seaborn • Pandas •Statistical Testing
+github: https://github.com/monicaea98/CallMeMaybe_Operator_Efficiency
+description: >
+  Operational call center data from a <strong>virtual telephone service</strong> was cleaned, transformed, 
+  and analyzed to evaluate <strong>operator performance</strong> and identify patterns of 
+  <strong>service inefficiency</strong>. The analysis focused on key performance indicators such as 
+  <strong>missed call rate</strong>, <strong>average waiting time</strong>, and 
+  <strong>outgoing call activity</strong>.
+
+  <strong>Exploratory data analysis</strong> revealed large variability in call duration and workload 
+  distribution across operators, highlighting potential <strong>performance imbalances</strong>. 
+  Behavioral thresholds were defined using data percentiles to classify inefficiency risk based on 
+  <strong>low outbound activity</strong>, <strong>high missed call percentages</strong>, and 
+  <strong>long customer wait times</strong>.
+
+  An <strong>operator inefficiency scoring model</strong> was developed to flag operators meeting 
+  multiple risk conditions. Statistical hypothesis testing confirmed that 
+  <strong>inefficient operators have significantly higher waiting times</strong>, validating waiting time 
+  as a strong indicator of service performance issues.
+
+  Findings informed <strong>data-driven operational recommendations</strong>, including targeted training, 
+  workload redistribution, and implementation of <strong>real-time performance monitoring dashboards</strong> 
+  to improve response times, reduce missed calls, and enhance overall customer service quality.
 
 ---
