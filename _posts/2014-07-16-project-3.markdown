@@ -7,7 +7,7 @@ date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: December 2026
+project-date: December 2025
 Tools: Python • NumPy • Pandas • Statistical Testing
 github: https://github.com/monicaea98/Checkout_Funnel_Optimization
 description: >
