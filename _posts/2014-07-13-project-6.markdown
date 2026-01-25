@@ -10,6 +10,22 @@ alt: image-alt
 project-date: January 2026
 Tools: Python • SQL • Pandas • Jupyter Notebook
 github: https://github.com/monicaea98/Book_Service_Database_Analysis
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: >
+  A relational <strong>book subscription service database</strong> was explored using 
+  <strong>SQL queries</strong> to analyze <strong>user behavior</strong>, 
+  <strong>book characteristics</strong>, and <strong>publishing trends</strong>. 
+  The analysis focused on extracting insights to support the development of a 
+  <strong>digital reading product</strong> in a growing online market.
 
+  Key analytical tasks included evaluating <strong>books published after 2000</strong>, 
+  measuring <strong>user engagement through ratings and reviews</strong>, identifying 
+  <strong>top-performing publishers</strong> based on full-length publications, and determining 
+  the <strong>highest-rated authors</strong> using minimum rating thresholds. 
+  Additional analysis highlighted the impact of <strong>power users</strong> who contribute a large share 
+  of written reviews.
+
+  All insights were generated through <strong>advanced SQL aggregations</strong>, 
+  <strong>joins across multiple tables</strong>, and <strong>data filtering techniques</strong>, 
+  demonstrating strong ability to work directly with structured relational data. 
+  Results were documented and interpreted to support <strong>data-driven product decisions</strong>.
 ---
