@@ -958,7 +958,7 @@ body {
 }
 
 .see-more-btn {
-  background-color: #4CAF50;
+  background-color: #fed136;
   color: #ffffff;
   padding: 14px 30px;
   font-size: 18px;
@@ -970,7 +970,7 @@ body {
 }
 
 .see-more-btn:hover {
-  background-color: #3e8e41;
+  background-color: #fec503;
   transform: translateY(-3px);
   color: #ffffff;
 }
