@@ -949,3 +949,7 @@ body {
     height: 260px;
     object-fit: cover;
 }
+.see-more-container {
+  text-align: center;
+  margin-top: 60px;
+}
