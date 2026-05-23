@@ -1,34 +1,41 @@
 ---
-title: Checkout Funnel Optimization
-subtitle: Conversion
+title: Finance Performance Dashboard
+subtitle: Financial Analytics
 layout: default
 modal-id: 3
 date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: December 2025
-Tools: Python • NumPy • Pandas • Statistical Testing
-github: https://github.com/monicaea98/Checkout_Funnel_Optimization
+project-date: March 2026
+Tools: Power BI • DAX • Data Modeling • Financial KPI Analysis • Data Visualization
+github: https://github.com/monicaea98/Personal-Finance-Performance-Dashboard
 description: >
-  User behavior data from an <strong>A/B test of an e-commerce checkout funnel</strong> was cleaned, validated, 
-  and analyzed to evaluate the impact of a <strong>new recommendation system</strong> on 
-  <strong>conversion rates</strong> across key funnel stages. The analysis focused on user activity within 
-  the first <strong>14 days after registration</strong>.
+  An interactive <strong>Personal Finance Analytics Dashboard</strong> built in 
+  <strong>Power BI</strong> to monitor <strong>income</strong>, 
+  <strong>expenses</strong>, <strong>profit</strong>, and 
+  <strong>financial balance</strong> against predefined targets. 
+  The project transforms raw financial data into 
+  <strong>clear and actionable insights</strong> that support smarter financial 
+  decision-making and long-term financial planning.
 
-  <strong>Exploratory data analysis</strong> and data validation steps ensured 
-  <strong>experiment integrity</strong>, including removal of users assigned to multiple groups, 
-  verification of <strong>balanced activity levels</strong>, and checks for 
-  <strong>external marketing campaign interference</strong>.
+  The dashboard includes multiple analytical views focused on 
+  <strong>financial performance tracking</strong>, including 
+  <strong>income vs goals</strong>, <strong>expenses vs budget</strong>, 
+  <strong>profitability analysis</strong>, and 
+  <strong>balance growth monitoring</strong>. Interactive filters and KPI indicators 
+  allow users to quickly evaluate whether financial performance is meeting expectations.
 
-  Funnel performance was measured across <strong>login</strong>, <strong>product page views</strong>, 
-  <strong>cart additions</strong>, and <strong>purchases</strong>. Statistical hypothesis testing 
-  using <strong>proportion z-tests</strong> revealed that the new funnel increased 
-  <strong>mid-funnel engagement</strong> (product page → cart) but did not significantly improve 
-  <strong>final purchase conversion</strong>.
+  <strong>Data modeling</strong> and <strong>DAX measures</strong> were used to create 
+  dynamic calculations and performance metrics across different time periods and categories. 
+  The dashboard also incorporates 
+  <strong>monthly trend analysis</strong>, 
+  <strong>category-level comparisons</strong>, and 
+  <strong>target achievement tracking</strong> to identify financial patterns and 
+  areas for improvement.
 
-  Additional analysis uncovered <strong>event tracking inconsistencies</strong> in the 
-  cart-to-purchase stage, highlighting the importance of <strong>data quality in experimentation</strong>. 
-  The findings informed recommendations to refine tracking, rerun the experiment, and prioritize 
-  <strong>data-driven optimization of the checkout experience</strong>.
----
+  Financial analysis revealed that 
+  <strong>income generally remained close to target values</strong>, while certain periods 
+  showed <strong>expenses exceeding planned budgets</strong>. 
+  Profitability improved over time as revenue stabilized, and the overall balance demonstrated 
+  <strong>consistent long-term growth</strong>.
