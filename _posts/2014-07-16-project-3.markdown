@@ -39,3 +39,4 @@ description: >
   showed <strong>expenses exceeding planned budgets</strong>. 
   Profitability improved over time as revenue stabilized, and the overall balance demonstrated 
   <strong>consistent long-term growth</strong>.
+---
